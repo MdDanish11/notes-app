@@ -4,7 +4,7 @@ A simple and intuitive Notes App that allows users to create, edit, and delete n
 
 ## Live Demo
 
-You can view a live version of this project [here]([[https://your-live-link.com](https://mddanish11.github.io/notes-app/)]
+You can view a live version of this project https://mddanish11.github.io/notes-app/
 
 ## Built With
 
